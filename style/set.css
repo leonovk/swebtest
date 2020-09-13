@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(169, 169, 169);
+}
+.ava {
+  max-width: 500px;
+  max-height: 500px;
+}
+.main{
+  border: 2px double black;
+  max-width: 500px;
+}

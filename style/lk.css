@@ -1,0 +1,89 @@
+body {
+  background-color: #A9A9A9;
+}
+.lk {
+  background-color: white;
+  border: 2px double black;
+  box-shadow: 0 0 25px rgba(0,0,0,0.5);
+  margin-top: 25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px;
+}
+input {
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.perevodi {
+
+  margin-top: 5px;
+}
+.posti {
+
+  margin-top: 10px;
+}
+.vvod {
+  width: 90%;
+  margin-left: 2.5%;
+}
+.poisk {
+  margin-left: 35%;
+  margin-right: 35%;
+}
+.srh1 {
+  width: 70%;
+}
+.ava {
+  max-width: 200px;
+  max-height: 200px;
+}
+.zapisi {
+  background-color: white;
+  border: 2px double black;
+  box-shadow: 0 0 25px rgba(0,0,0,0.5);
+  margin-top: 25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px;
+}
+p {
+  border: 2px double black;
+  background-color: white;
+  padding: 5px;
+}
+.wh {
+  border: 1px double white;
+}
+.men1 {
+  display: inline-block;
+}
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px)
+and (orientation : portrait) {
+  .lk {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 72px;
+  }
+  input {
+    height: 80px;
+    font-size: 40px;
+  }
+  .posti {
+    margin-top: 40px;
+
+  }
+  .perevodi {
+
+  }
+  .poisk {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+
+}
