@@ -1,2 +1,3 @@
 # swebtest
-Мой учебный, тестовый проект, мини социальной сети.
+test mini project of a social network
+You can visit the project at the link above
